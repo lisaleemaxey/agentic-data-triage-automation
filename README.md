@@ -2,6 +2,8 @@
 
 An AI-native automation built with Claude Cowork that solves a common operational problem: too much unstructured, multi-source data arriving faster than a person can manually process it.
 
+[**Try the live demo →**](https://lisaleemaxey.github.io/data-triage/)
+
 ## What It Does
 
 This workflow ingests inbound data from multiple sources, automatically categorizes and tiers it by priority, and outputs a clean, ready-to-action summary on a recurring schedule — with full state management so nothing is lost or duplicated.
